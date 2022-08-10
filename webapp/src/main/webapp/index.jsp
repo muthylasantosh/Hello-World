@@ -8,3 +8,4 @@
 <h1> New CICD </h1>
 <h1> My New Project </h1>
 <h1> Nexus My-Repo </h1>
+<H1> Nexus Version $BUILD </h1>
